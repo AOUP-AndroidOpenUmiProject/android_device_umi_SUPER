@@ -1,63 +1,25 @@
-UMi Super - CyanogenMod 13.0/AOSP
-==============
-
-This branch is device for building of the CyanogenMod 13.0 and Android Marshmallow 6.X AOSP ROMs.
-
----
-
+​# Meizu M3 Note - Unofficial LineageOS 13.0/AOSP 
+============== This branch is device for building of the 
+Unofficial LineageOS 13.0 and Android Marshmallow 6.X AOSP 
+ROMs. ---
 # About Device
-
-![UMi Super](http://www.umidigi.com/new/Images/super/so_back.png "UMi Super in grey")
-
-The UMi Super (codenamed _"SUPER"_) is a flagship smartphone from UMi. The SUPER now supports CyanogenMod 13.0!
+![M3 Note](https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=abf4fbae1830e924dba994632d610563/b8389b504fc2d56229c9364be01190ef77c66c57.jpg 
+"Meizu M3 Note")
 
 ### Specifications
-
-Component Type | Details
--------:|:-------------------------
-CPU     | 2.0GHz Octa-Core MT6755 (Helio P10)
-GPU     | Mali-T860
-Memory  | 4GB RAM
-Shipped Android Version | 6.0
-Storage | 32GB
-Battery | 4000 mAh
-Display | 5.5" 1920 x 1080 px DPI 480
-Rear Camera | 13MP (Panasonic MN34152), Dual LED Flash, Autofocus, Self-timer, ISO settings, Face detection, HDR, Panorama, Geotagging, Digital Zoom
-Front Camera | 5MP (GalaxyCore GC5005)
-
----
-
-# Build Information
-
-### Working:
- * Hardware acceleration
- * Wi-Fi
- * Offline charging
- * GPS
- * AGPS
- * Vibration
- * Audio
- * Auto brightness
- * LED
- * New screen support
- * FM Radio
- * Rotation
- * Flashlight (statusbar and camera)
- * Bluetooth(no audio stream)
- * Camera rear/front (photos)
- * Micro SD support
- * MTP and Mass Storage modes
- * Fingerprint scanner
- * Fast charging
- * KeySwitching
-
-### In progress:
- * Force close camera with HDR on
- * Screen Recorder not working
- * WiFi tethering
+Component Type | Details 
+-------:|:------------------------- 
+CPU | 2.0GHz Octa-Core MT6755 (Helio P10) 
+GPU | Mali-T860 
+Memory | 2G/3GB RAM 
+Shipped Android Version | 5.1 
+Storage | 16G/32GB 
+Battery | 4100 mAh 
+Display | 5.5" 1920 x 1080 px DPI 480 Rear 
+Camera | 13MPFront Camera | 5MP
 
 ### Thanks to:
- * CyanogenMod team
+ * LineageOS team
  * Wuxianlin
  * Deepflex
  * Ferhung
@@ -72,6 +34,4 @@ Front Camera | 5MP (GalaxyCore GC5005)
  * Flounderist
  * Moyster
  * AOUP team
-
-### How to build:
-Infos [here](https://github.com/AOUP-AndroidOpenUmiProject/local_manifests/tree/cm-13.0)
+ * joe2k01
